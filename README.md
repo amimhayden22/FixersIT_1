@@ -2,4 +2,4 @@
 Web Desain di Universitas Sanata Dharma
 SMK N 2 Magelang
 <br>
-itdays.000webhostapp.com
+<a href="itdays.000webhostapp.com">Website</a>
